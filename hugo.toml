@@ -1,0 +1,42 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'GA Rogers Consulting'
+theme = "ananke"
+summaryLength = 10
+
+[params]
+  site_logo = "images/ga-rogers-consulting-logo.png"
+  background_color_class = "bg-dark-blue"
+  author = "Gareth Rogers"
+  description ="Business Analyst"
+  recent_posts_number = 2
+
+[params.ananke]
+  custom_css = ["logo.css"]
+
+
+[menus]
+
+  [[menus.main]]
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 10
+
+  [[menus.main]]
+    name = "Articles"
+    pageRef = "/articles"
+    weight = 20
+
+  [[menus.main]]
+    name = "Community"
+    pageRef = "/community"
+    weight = 30
+
+  [[menus.main]]
+    name = "Examples"
+    pageRef = "/work-examples"
+    weight = 40
+
+  [taxonomies]
+  tag = "tags"
+  category = "categories"

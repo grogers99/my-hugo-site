@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ftth on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/ftth/</link>
+		<description>Recent content in Ftth on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/ftth/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>FTTH Reseller Enablement at Telefónica O2</title>
+				<link>http://localhost:1313/projects/telefonica-ftth-rollout/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/telefonica-ftth-rollout/</guid>
+				<description>&lt;h1 id=&#34;ftth-reseller-enablement-at-telefónica-o2&#34;&gt;FTTH Reseller Enablement at Telefónica O2&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Lead Product Owner within a large-scale FTTH broadband transformation program enabling Telefónica O2 Germany to operate as a reseller of Deutsche Telekom FTTH infrastructure.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

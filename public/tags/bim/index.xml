@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bim on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/bim/</link>
+		<description>Recent content in Bim on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/bim/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Scalix BIM Integration Requirements Engineering</title>
+				<link>http://localhost:1313/projects/scalix-bim-integration/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/scalix-bim-integration/</guid>
+				<description>&lt;h1 id=&#34;scalix-bim-integration-requirements-engineering&#34;&gt;Scalix BIM Integration Requirements Engineering&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Freelance requirements engineering engagement supporting the evolution of a structural engineering calculation platform and planned integration with BIM tooling.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

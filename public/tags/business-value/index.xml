@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Business Value on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/business-value/</link>
+		<description>Recent content in Business Value on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/business-value/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Splitting Requirements at Scale</title>
+				<link>http://localhost:1313/articles/splitting-requirements-at-scale/</link>
+				<pubDate>Tue, 12 Sep 2023 00:00:00 +0200</pubDate>
+				<guid>http://localhost:1313/articles/splitting-requirements-at-scale/</guid>
+				<description>&lt;p&gt;Executive summary: The article explains how to split complex requirements into manageable hierarchies without losing traceability, business value, or architectural clarity. It argues for structuring requirements around end-to-end business processes and important problem-domain dimensions, then refining them with consistent abstraction layers so that dependencies stay visible instead of hidden inside individual stories. The main practical message is that good splitting strategy is not just about making requirements smaller; it is about choosing an order and structure that support prioritisation, reuse, and coherent solution design in complex domains.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

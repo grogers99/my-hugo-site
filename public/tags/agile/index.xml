@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Agile on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/agile/</link>
+		<description>Recent content in Agile on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Business Analysis Training at CodeYourFuture</title>
+				<link>http://localhost:1313/community/cyf/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/cyf/</guid>
+				<description>&lt;h1 id=&#34;business-analysis-training-at-codeyourfuture&#34;&gt;Business Analysis Training at CodeYourFuture&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://codeyourfuture.io/&#34;&gt;CodeYourFuture&lt;/a&gt; is a non-profit organisation that supports refugees, asylum seekers and disadvantaged individuals by providing education and mentoring in software development and technology skills.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contributions to IREB and RE@Agile</title>
+				<link>http://localhost:1313/community/ireb/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb/</guid>
+				<description>&lt;h1 id=&#34;contributions-to-ireb-and-reagile&#34;&gt;Contributions to IREB and RE@Agile&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ireb.org/&#34;&gt;IREB – International Requirements Engineering Board&lt;/a&gt; is an international non-profit organisation dedicated to improving professional standards and education in Requirements Engineering.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FTTH Reseller Enablement at Telefónica O2</title>
+				<link>http://localhost:1313/projects/telefonica-ftth-rollout/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/telefonica-ftth-rollout/</guid>
+				<description>&lt;h1 id=&#34;ftth-reseller-enablement-at-telefónica-o2&#34;&gt;FTTH Reseller Enablement at Telefónica O2&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Lead Product Owner within a large-scale FTTH broadband transformation program enabling Telefónica O2 Germany to operate as a reseller of Deutsche Telekom FTTH infrastructure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Global Mobile Device Management Platform</title>
+				<link>http://localhost:1313/projects/mobile-device-management-platform/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/mobile-device-management-platform/</guid>
+				<description>&lt;h1 id=&#34;global-mobile-device-management-platform&#34;&gt;Global Mobile Device Management Platform&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Led analysis and delivery activities for a large-scale mobile device management platform supporting over-the-air configuration of mobile devices across multiple countries.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Partner Connectivity Portal for Global Agritech Supply Chain</title>
+				<link>http://localhost:1313/projects/partner-connectivity-portal/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/partner-connectivity-portal/</guid>
+				<description>&lt;h1 id=&#34;partner-connectivity-portal-for-global-agritech-supply-chain&#34;&gt;Partner Connectivity Portal for Global Agritech Supply Chain&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Led requirements engineering and implementation coordination for a large-scale partner connectivity portal supporting logistics and supply chain processes in global seed production operations.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Scalix BIM Integration Requirements Engineering</title>
+				<link>http://localhost:1313/projects/scalix-bim-integration/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/scalix-bim-integration/</guid>
+				<description>&lt;h1 id=&#34;scalix-bim-integration-requirements-engineering&#34;&gt;Scalix BIM Integration Requirements Engineering&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Freelance requirements engineering engagement supporting the evolution of a structural engineering calculation platform and planned integration with BIM tooling.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Splitting Requirements at Scale</title>
+				<link>http://localhost:1313/articles/splitting-requirements-at-scale/</link>
+				<pubDate>Tue, 12 Sep 2023 00:00:00 +0200</pubDate>
+				<guid>http://localhost:1313/articles/splitting-requirements-at-scale/</guid>
+				<description>&lt;p&gt;Executive summary: The article explains how to split complex requirements into manageable hierarchies without losing traceability, business value, or architectural clarity. It argues for structuring requirements around end-to-end business processes and important problem-domain dimensions, then refining them with consistent abstraction layers so that dependencies stay visible instead of hidden inside individual stories. The main practical message is that good splitting strategy is not just about making requirements smaller; it is about choosing an order and structure that support prioritisation, reuse, and coherent solution design in complex domains.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How agile can Requirements Engineers really be?</title>
+				<link>http://localhost:1313/articles/requirements-engineers/</link>
+				<pubDate>Wed, 30 Jul 2014 00:00:00 +0200</pubDate>
+				<guid>http://localhost:1313/articles/requirements-engineers/</guid>
+				<description>&lt;p&gt;Executive summary: The article argues that Agile and requirements engineering are not substitutes for one another. In complex telecom projects, Agile ceremonies and user stories can improve collaboration and delivery flow, but they do not remove the need for thorough requirements analysis, dependency management, non-functional specification, and architectural design. The author’s conclusion is that when Agile is treated as a replacement for rigorous RE, hidden dependencies and incomplete analysis can lead to rework, overruns, and quality issues.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

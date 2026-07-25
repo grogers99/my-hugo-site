@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Re-Agile on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/re-agile/</link>
+		<description>Recent content in Re-Agile on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/re-agile/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contributions to IREB and RE@Agile</title>
+				<link>http://localhost:1313/community/ireb/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb/</guid>
+				<description>&lt;h1 id=&#34;contributions-to-ireb-and-reagile&#34;&gt;Contributions to IREB and RE@Agile&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ireb.org/&#34;&gt;IREB – International Requirements Engineering Board&lt;/a&gt; is an international non-profit organisation dedicated to improving professional standards and education in Requirements Engineering.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

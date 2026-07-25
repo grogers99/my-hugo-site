@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projects on GA Rogers Consulting</title>
+		<link>http://localhost:1313/projects/</link>
+		<description>Recent content in Projects on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DSL &amp; VoIP Change of Provider Transformation</title>
+				<link>http://localhost:1313/projects/change-of-provider-process/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/change-of-provider-process/</guid>
+				<description>&lt;h1 id=&#34;dsl--voip-change-of-provider-transformation&#34;&gt;DSL &amp;amp; VoIP Change of Provider Transformation&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Requirements engineer and solution designer within a transformation initiative focused on redesigning DSL and VoIP order entry and fulfilment processes in response to German regulatory requirements.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FTTH Reseller Enablement at Telefónica O2</title>
+				<link>http://localhost:1313/projects/telefonica-ftth-rollout/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/telefonica-ftth-rollout/</guid>
+				<description>&lt;h1 id=&#34;ftth-reseller-enablement-at-telefónica-o2&#34;&gt;FTTH Reseller Enablement at Telefónica O2&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Lead Product Owner within a large-scale FTTH broadband transformation program enabling Telefónica O2 Germany to operate as a reseller of Deutsche Telekom FTTH infrastructure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Global Logistics Transformation at Bauhaus</title>
+				<link>http://localhost:1313/projects/bauhaus-logistics-transformation/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/bauhaus-logistics-transformation/</guid>
+				<description>&lt;h1 id=&#34;global-logistics-transformation-at-bauhaus&#34;&gt;Global Logistics Transformation at Bauhaus&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Product Owner responsible for end-to-end logistics systems supporting international eCommerce operations for a major European retailer.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Global Mobile Device Management Platform</title>
+				<link>http://localhost:1313/projects/mobile-device-management-platform/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/mobile-device-management-platform/</guid>
+				<description>&lt;h1 id=&#34;global-mobile-device-management-platform&#34;&gt;Global Mobile Device Management Platform&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Led analysis and delivery activities for a large-scale mobile device management platform supporting over-the-air configuration of mobile devices across multiple countries.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Partner Connectivity Portal for Global Agritech Supply Chain</title>
+				<link>http://localhost:1313/projects/partner-connectivity-portal/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/partner-connectivity-portal/</guid>
+				<description>&lt;h1 id=&#34;partner-connectivity-portal-for-global-agritech-supply-chain&#34;&gt;Partner Connectivity Portal for Global Agritech Supply Chain&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Led requirements engineering and implementation coordination for a large-scale partner connectivity portal supporting logistics and supply chain processes in global seed production operations.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Scalix BIM Integration Requirements Engineering</title>
+				<link>http://localhost:1313/projects/scalix-bim-integration/</link>
+				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/scalix-bim-integration/</guid>
+				<description>&lt;h1 id=&#34;scalix-bim-integration-requirements-engineering&#34;&gt;Scalix BIM Integration Requirements Engineering&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Freelance requirements engineering engagement supporting the evolution of a structural engineering calculation platform and planned integration with BIM tooling.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

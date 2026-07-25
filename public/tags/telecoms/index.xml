@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Telecoms on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/telecoms/</link>
+		<description>Recent content in Telecoms on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/telecoms/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>How agile can Requirements Engineers really be?</title>
+				<link>http://localhost:1313/articles/requirements-engineers/</link>
+				<pubDate>Wed, 30 Jul 2014 00:00:00 +0200</pubDate>
+				<guid>http://localhost:1313/articles/requirements-engineers/</guid>
+				<description>&lt;p&gt;Executive summary: The article argues that Agile and requirements engineering are not substitutes for one another. In complex telecom projects, Agile ceremonies and user stories can improve collaboration and delivery flow, but they do not remove the need for thorough requirements analysis, dependency management, non-functional specification, and architectural design. The author’s conclusion is that when Agile is treated as a replacement for rigorous RE, hidden dependencies and incomplete analysis can lead to rework, overruns, and quality issues.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
