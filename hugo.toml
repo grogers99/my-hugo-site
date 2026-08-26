@@ -37,6 +37,11 @@ summaryLength = 10
     pageRef = "/work-examples"
     weight = 40
 
-  [taxonomies]
+  [[menus.main]]
+    name = "Resume"
+    pageRef = "/resume"
+    weight = 50
+
+ [taxonomies]
   tag = "tags"
   category = "categories"

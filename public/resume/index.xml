@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Resumes on GA Rogers Consulting</title>
+		<link>http://localhost:1313/resume/</link>
+		<description>Recent content in Resumes on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/resume/resume/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resume/resume/</guid>
+				<description>&lt;h1 id=&#34;professional-profile&#34;&gt;Professional Profile&lt;/h1&gt;&#xA;&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#personal-summary&#34;&gt;Personal Summary&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#vision-and-purpose&#34;&gt;Vision and Purpose&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#core-competencies&#34;&gt;Core Competencies&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#methods-tools--frameworks&#34;&gt;Methods, Tools &amp;amp; Frameworks&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#career&#34;&gt;Career&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#volunteering&#34;&gt;Volunteering&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#education-and-certifications&#34;&gt;Education and Certifications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;personal-summary&#34;&gt;Personal Summary&lt;/h2&gt;&#xA;&lt;p&gt;Freelance Requirements Engineer with over 20 years experience delivering complex IT solutions across diverse industries.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
