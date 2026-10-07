@@ -10,56 +10,119 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Agile</title>
 				<link>http://localhost:1313/tags/agile/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/agile/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Business-Analysis</title>
-				<link>http://localhost:1313/tags/business-analysis/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/business-analysis/</guid>
+				<title>AI</title>
+				<link>http://localhost:1313/tags/ai/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ai/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Authorship</title>
+				<link>http://localhost:1313/tags/authorship/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/authorship/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Certification</title>
 				<link>http://localhost:1313/tags/certification/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/certification/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>IreB</title>
+				<title>Community</title>
+				<link>http://localhost:1313/tags/community/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/community/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Innovation</title>
+				<link>http://localhost:1313/tags/innovation/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/innovation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>IREB</title>
 				<link>http://localhost:1313/tags/ireb/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/ireb/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mentoring</title>
 				<link>http://localhost:1313/tags/mentoring/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/mentoring/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Prototyping</title>
+				<link>http://localhost:1313/tags/prototyping/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/prototyping/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Re-Agile</title>
 				<link>http://localhost:1313/tags/re-agile/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/re-agile/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Requirements-Engineering</title>
 				<link>http://localhost:1313/tags/requirements-engineering/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/requirements-engineering/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Volunteering</title>
+				<link>http://localhost:1313/tags/volunteering/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/volunteering/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Business Analysis</title>
+				<link>http://localhost:1313/tags/business-analysis/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/business-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Editorial</title>
+				<link>http://localhost:1313/tags/editorial/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/editorial/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Knowledge-Sharing</title>
+				<link>http://localhost:1313/tags/knowledge-sharing/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/knowledge-sharing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Professional-Development</title>
+				<link>http://localhost:1313/tags/professional-development/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/professional-development/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -74,13 +137,6 @@
 				<link>http://localhost:1313/tags/training/</link>
 				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/training/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Volunteering</title>
-				<link>http://localhost:1313/tags/volunteering/</link>
-				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/volunteering/</guid>
 				<description></description>
 			</item>
 			<item>

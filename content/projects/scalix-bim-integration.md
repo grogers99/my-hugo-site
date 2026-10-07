@@ -61,9 +61,9 @@ The work combines stakeholder management, backlog preparation and solution defin
 - Confluence
 - Miro
 - Camunda
-- JavaScript
-- XML / JSON
+- Swagger / JSON / XML
 - CAD / BIM tooling
+- Azure
 
 ---
 
@@ -72,5 +72,5 @@ The work combines stakeholder management, backlog preparation and solution defin
 - Structural Engineering Software
 - BIM Integration
 - Agile Requirements Engineering
-- Cloud Collaboration Platforms
+- Cloud Platforms
 - Engineering Workflow Analysis

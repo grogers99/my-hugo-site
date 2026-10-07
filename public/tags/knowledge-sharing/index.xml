@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Knowledge-Sharing on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/knowledge-sharing/</link>
+		<description>Recent content in Knowledge-Sharing on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/knowledge-sharing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contributor, Editor and Review for IREB Magazine</title>
+				<link>http://localhost:1313/community/ireb-magazine-contributor/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb-magazine-contributor/</guid>
+				<description>&lt;h1 id=&#34;contributor-editor-and-review-for-ireb-magazine&#34;&gt;Contributor, Editor and Review for IREB Magazine&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://re-magazine.ireb.org/&#34;&gt;IREB Magazine&lt;/a&gt; is a professional publication designed to share insights, case studies, methods and practitioner perspectives related to Requirements Engineering.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

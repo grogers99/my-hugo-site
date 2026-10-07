@@ -10,11 +10,18 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/certification/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Contributions to IREB and RE@Agile</title>
+				<title>Coauthor and Examiner for RE@Agile Advanced Certification</title>
+				<link>http://localhost:1313/community/ireb-reagile-advanced-certification/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb-reagile-advanced-certification/</guid>
+				<description>&lt;h1 id=&#34;coauthor-and-examiner-for-reagile-advanced-certification&#34;&gt;Coauthor and Examiner for RE@Agile Advanced Certification&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://cpre.ireb.org/en/concept/agile-re&#34;&gt;RE@Agile&lt;/a&gt; programme was developed by IREB to support Requirements Engineering practitioners working in agile and iterative delivery environments.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IREB Full Member</title>
 				<link>http://localhost:1313/community/ireb/</link>
 				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/community/ireb/</guid>

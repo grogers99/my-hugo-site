@@ -2,55 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/work-examples/bpmn-ftth/</loc>
-    <lastmod>2026-05-27T19:21:50+02:00</lastmod>
+    <loc>http://localhost:1313/tags/agile/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/authorship/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/certification/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/community/ireb-reagile-advanced-certification/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/community/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/community/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/innovation/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ireb/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/community/ireb-local-community-ambassador-germany/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/community/ireb-ai-sig/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mentoring/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prototyping/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/re-agile/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/requirements-engineering/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/volunteering/</loc>
+    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/work-examples/bpmn-ftth/</loc>
     <lastmod>2026-05-27T19:21:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/work-examples/</loc>
     <lastmod>2026-05-27T19:21:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/agile/</loc>
+    <loc>http://localhost:1313/tags/business-analysis/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/community/cyf/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/business-analysis/</loc>
+    <loc>http://localhost:1313/community/ireb-magazine-contributor/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/certification/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/community/</loc>
+    <loc>http://localhost:1313/tags/editorial/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/community/ireb/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ireb/</loc>
+    <loc>http://localhost:1313/tags/knowledge-sharing/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mentoring/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/re-agile/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/requirements-engineering/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/professional-development/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/thought-leadership/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/training/</loc>
-    <lastmod>2026-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/volunteering/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/</loc>

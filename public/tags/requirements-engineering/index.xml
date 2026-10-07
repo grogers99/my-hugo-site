@@ -10,9 +10,30 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/requirements-engineering/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Coauthor and Examiner for RE@Agile Advanced Certification</title>
+				<link>http://localhost:1313/community/ireb-reagile-advanced-certification/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb-reagile-advanced-certification/</guid>
+				<description>&lt;h1 id=&#34;coauthor-and-examiner-for-reagile-advanced-certification&#34;&gt;Coauthor and Examiner for RE@Agile Advanced Certification&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://cpre.ireb.org/en/concept/agile-re&#34;&gt;RE@Agile&lt;/a&gt; programme was developed by IREB to support Requirements Engineering practitioners working in agile and iterative delivery environments.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IREB Local Community Ambassador for Germany</title>
+				<link>http://localhost:1313/community/ireb-local-community-ambassador-germany/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb-local-community-ambassador-germany/</guid>
+				<description>&lt;h1 id=&#34;ireb-local-community-ambassador-for-germany&#34;&gt;IREB Local Community Ambassador for Germany&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ireb.org/&#34;&gt;IREB – International Requirements Engineering Board&lt;/a&gt; is a global non-profit organisation dedicated to advancing professional standards in Requirements Engineering and related disciplines.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IREB Special Interest Group for AI Prototyping</title>
+				<link>http://localhost:1313/community/ireb-ai-sig/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb-ai-sig/</guid>
+				<description>&lt;h1 id=&#34;ireb-special-interest-group-for-ai-prototyping&#34;&gt;IREB Special Interest Group for AI Prototyping&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;IREB hosts Special Interest Groups to support focused discussion and exploration of emerging topics relevant to Requirements Engineering and professional practice.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Business Analysis Training at CodeYourFuture</title>
 				<link>http://localhost:1313/community/cyf/</link>
@@ -21,7 +42,14 @@
 				<description>&lt;h1 id=&#34;business-analysis-training-at-codeyourfuture&#34;&gt;Business Analysis Training at CodeYourFuture&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://codeyourfuture.io/&#34;&gt;CodeYourFuture&lt;/a&gt; is a non-profit organisation that supports refugees, asylum seekers and disadvantaged individuals by providing education and mentoring in software development and technology skills.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Contributions to IREB and RE@Agile</title>
+				<title>Contributor, Editor and Review for IREB Magazine</title>
+				<link>http://localhost:1313/community/ireb-magazine-contributor/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb-magazine-contributor/</guid>
+				<description>&lt;h1 id=&#34;contributor-editor-and-review-for-ireb-magazine&#34;&gt;Contributor, Editor and Review for IREB Magazine&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://re-magazine.ireb.org/&#34;&gt;IREB Magazine&lt;/a&gt; is a professional publication designed to share insights, case studies, methods and practitioner perspectives related to Requirements Engineering.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IREB Full Member</title>
 				<link>http://localhost:1313/community/ireb/</link>
 				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/community/ireb/</guid>

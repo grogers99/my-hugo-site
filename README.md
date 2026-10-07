@@ -132,7 +132,7 @@ git push -u origin main
 git status
 git add .
 git commit -m "Update site content"
-git push origin main
+git push origin master
 ```
 
 ### Best practices
@@ -169,12 +169,15 @@ The repository is organized as follows:
 This section tracks items to complete as the site evolves.
 
 - Content:
-- [/] Add CV section ie. chronological CV
-- [ ] Add voluntary details: ie. IREB Community Ambassador, IREB RE@Agile (Contributor & Examiner), IREB Prototyping with AI
+- [X] Add CV section ie. chronological CV
+- [X] Add voluntary details: ie. IREB Community Ambassador, IREB RE@Agile (Contributor & Examiner), IREB Prototyping with AI
+- [ ] Review project details, check date & therefore display order, check keywords
+- [ ] Improve AI4RE community section with some general thoughts about AI and relevance for RE
 - [ ] Add work/dev details: FTTH BPMN, Glossary (?), this website, tennis match
-- [ ] ...
+- [ ] Add Contact page
+
 - Appearance:
-- [ ] ...
+- [ ] Improve logo visibility
 - [ ] ...
 
 - Other:

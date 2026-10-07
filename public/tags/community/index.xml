@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Community on GA Rogers Consulting</title>
+		<link>http://localhost:1313/tags/community/</link>
+		<description>Recent content in Community on GA Rogers Consulting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IREB Local Community Ambassador for Germany</title>
+				<link>http://localhost:1313/community/ireb-local-community-ambassador-germany/</link>
+				<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/community/ireb-local-community-ambassador-germany/</guid>
+				<description>&lt;h1 id=&#34;ireb-local-community-ambassador-for-germany&#34;&gt;IREB Local Community Ambassador for Germany&lt;/h1&gt;&#xA;&lt;h2 id=&#34;organisation&#34;&gt;Organisation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ireb.org/&#34;&gt;IREB – International Requirements Engineering Board&lt;/a&gt; is a global non-profit organisation dedicated to advancing professional standards in Requirements Engineering and related disciplines.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

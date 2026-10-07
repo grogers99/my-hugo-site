@@ -1,19 +1,17 @@
 ---
-title: "Contributions to IREB and RE@Agile"
-date: "2026-05-27"
+title: "IREB Full Member"
+date: "2026-10-07"
 draft: false
 
 tags:
   - requirements-engineering
-  - ireB
-  - re-agile
-  - agile
+  - IREB
   - certification
   - mentoring
   - thought-leadership
 
 organization: "IREB – International Requirements Engineering Board"
-role: "Contributor, Author, Reviewer and Examiner"
+role: "Full Member"
 website: "https://www.ireb.org/"
 location: "International / Remote"
 ---
@@ -32,46 +30,10 @@ One of its major initiatives is the [RE@Agile programme](https://cpre.ireb.org/e
 
 ## My Involvement
 
-I have been actively involved with IREB through contributions to the RE@Agile initiative, participation in Special Interest Groups, examination activities and collaboration on Requirements Engineering education material.
+I have worked with IREB in different capacities since 2012. What began as assistance with English proof-reading became a fruitful collaboration over many years including as reviewer and editor or course materials, co-author and examiner of the RE@Agile programme, a role as Local Ambassador for Germany and participation in the special interest group AI4RE. In May 2025 I was very honoured to be promoted to Full Member of IREB, with voting rights at the General Assembly.
 
-My work has focused particularly on bridging the gap between traditional Requirements Engineering disciplines and modern agile delivery approaches.
 
----
-
-## RE@Agile Contributions
-
-I contributed to the development and review of RE@Agile training and certification material designed to support Requirements Engineering practitioners working within Scrum and agile delivery environments.
-
-This included collaboration on:
-- agile requirements concepts
-- backlog management approaches
-- user story modelling
-- stakeholder collaboration techniques
-- integrating Requirements Engineering into iterative delivery models
-
----
-
-## Examiner and Review Activities
-
-Responsibilities included:
-- reviewing training and examination content
-- supporting quality assurance activities
-- contributing practitioner feedback from enterprise delivery programmes
-- validating the practical applicability of RE techniques within agile contexts
-
-The work combined theoretical RE principles with real-world delivery experience from large-scale telecoms, logistics and enterprise transformation projects.
-
----
-
-## AI SIG Participation
-
-In addition to RE@Agile activities, I participated in discussions and prototyping initiatives connected to AI-supported Requirements Engineering through IREB Special Interest Group activities.
-
-Areas of interest included:
-- AI-assisted requirements analysis
-- agile prototyping
-- knowledge management
-- automation support for business analysis workflows
+IREB plays a key role in both professionalising the role of Requirements Engineer and in creating a community around this role to support practitioners. Arguing for systematic problem analysis at the start of a project, considering solution alternatives when preconceived ideas already exist, questioning and validating assumptions about the form the solution can take - all this often requires pushing back on the tendency of many teams and organisations to run after the first solution that presents itself. I have frequently found myself alone or in a small minority in this position, and for this reason the RE Community has been a valuable and crucial source of support. 
 
 ---
 
@@ -85,19 +47,6 @@ Areas of interest included:
 - Scaled Agile Delivery
 - Enterprise Integration
 - AI-supported Analysis Techniques
-
----
-
-## Industry Perspective
-
-My contributions to IREB were informed by practical experience across:
-- telecommunications
-- logistics and supply chain
-- enterprise integration
-- retail systems
-- agile transformation programmes
-
-This practical perspective helped connect certification concepts with real-world delivery challenges faced by modern agile teams.
 
 ---
 
